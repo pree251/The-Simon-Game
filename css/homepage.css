@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: #000000;
+}
+
+#title {
+  padding-top: 200px;
+  font-family: "Press Start 2P", cursive;
+  font-size: 4rem;
+  margin: 5%;
+  color: #ffffff;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+#mainButton {
+  margin: auto;
+  height: 50px;
+  width: 300px;
+  display: inline-block;
+  border: 5px solid rgb(255, 255, 255);
+  border-style: ridge;
+  font-family: "Press Start 2P", cursive;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+#musicButton {
+  margin: auto;
+  border: 2px solid rgb(255, 255, 255);
+  font-family: "Press Start 2P", cursive;
+  border-style: ridge;
+  font-size: 10px;
+  cursor: pointer;
+}
