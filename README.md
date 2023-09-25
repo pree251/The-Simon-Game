@@ -6,7 +6,6 @@ The Simon game is the exciting electronic game of lights and sounds in which pla
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" width="60" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" width="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="41" width="60" alt="mongodb logo"  />
 </div>
 
 ### Start page:
